@@ -81,3 +81,9 @@ nav ul li{
     text-align: center;
     margin-top: 2rem;
 }
+.quote .container{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
